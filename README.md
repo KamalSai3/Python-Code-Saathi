@@ -1,4 +1,4 @@
-# AI Code Assistant
+# Python Code Saathi
 
 ## Project Overview
 This project is an AI Code Assistant built with Python. Its primary goal is to help users solve coding problems by generating and executing Python code. The assistant provides solutions in the form of Python code and takes coding problems as input, similar to those found on platforms like LeetCode.
